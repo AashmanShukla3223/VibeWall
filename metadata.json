@@ -1,0 +1,5 @@
+{
+  "name": "VibeWall",
+  "description": "Generate stunning phone wallpapers based on your vibe. Features high-resolution export, aspect ratio control, and remixing capabilities.",
+  "requestFramePermissions": []
+}
